@@ -13,7 +13,7 @@ class GFG {
     public static void main(String[] args)
     {
         GFG ob = new GFG();
-        int res = ob.sum(28, 49);
+        int res = ob.sum(50, 49);
         System.out.println(res);
     }
 }
